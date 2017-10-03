@@ -1,0 +1,55 @@
+body{
+	background-color:red;
+	text-align: center;
+}
+nav{
+	background-color:none ;
+	text-align: center;
+	font-size: 30px;
+	color:lightgrey;
+}
+.navbar-brand{
+	font-family: 'Lobster', cursive;
+	font-size: 60px;
+    color:lightgrey;
+}
+.navbar-light{
+	color:lightgrey;
+}
+.card{
+	background-color:lightgrey; 
+}
+a{
+	padding: 20px;
+	color: red;
+}
+li{
+		color:lightgrey;
+}
+footer{
+	display: block;
+	margin: 0;
+	background-image: url(.../img/footer.png),
+	background-color:red;
+}
+.inputs{
+	padding-left: 30px;
+	
+	display:block;
+	width: 80px;
+	text-align: center;
+}
+p{
+	font-size: 30px;
+    font-family: 'Lobster', cursive;
+    color: lightgrey;	
+}
+.icons{	
+	color: lightgrey;
+	text-align: right;
+	padding: 0;
+	margin: 0;
+}
+.card-body1{
+	text-align: center;
+}
